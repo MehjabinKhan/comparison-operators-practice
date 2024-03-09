@@ -1,0 +1,14 @@
+var number = 5;
+console.log(number == 5);
+var num = 6;
+console.log(num === 6);
+var num1 = 6;
+console.log(num1 != 6);
+var num2 = 7;
+console.log(num2 > 9);
+var num3 = 4;
+console.log(num3 < 8);
+var num4 = 2;
+console.log(num4 >= 8);
+var num5 = 3;
+console.log(num5 <= 8);

@@ -1,0 +1,14 @@
+let number = 5;
+console.log(number == 5);
+let num = 6;
+console.log(num ===6);
+let num1 = 6;
+console.log(num1 != 6);
+let num2 = 7;
+console.log(num2 > 9);
+let num3 = 4;
+console.log(num3 < 8);
+let num4 = 2;
+console.log(num4 >= 8);
+let num5 = 3;
+console.log(num5 <= 8);
